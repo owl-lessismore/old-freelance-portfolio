@@ -21,7 +21,7 @@
         </nav>
     </header>
     <section class="contact-sec">
-        <div class="container conheight-5">
+        <div class="container conheight-6">
             <form action="../php/contactDB.php" method="POST" onSubmit = "return validateContact();">
                 <div class="contact">
                     <h1>Get in Touch</h1>
