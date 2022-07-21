@@ -16,29 +16,29 @@
             <ul>
                 <li><a href="../index.html">Home</a></li>
                 <li><a href="../html/project.html">Project</a></li>
-                <li><a href="../html/contact.php">Contact</a></li>
+                <li><a href="../html/contact.html">Contact</a></li>
             </ul>
         </nav>
     </header>
     <section class="contact-sec">
         <div class="container conheight-6">
-            <form action="../php/contactDB.php" method="POST" onSubmit = "return validateContact();">
+            <form action="https://formspree.io/f/mnqwepgw" method="POST">
                 <div class="contact">
                     <h1>Get in Touch</h1>
                     <div class="input_field">
-                    <input type="text" placeholder="Name" class="input" name="fullname" id="fullnameID">
+                        <input type="text" placeholder="Name" class="input" name="name" required>
                     </div>
                     <div class="input_field">
-                    <input type="email" placeholder="Email" class="input" name="email" id="emailID">
+                        <input type="email" placeholder="Email" class="input" name="email" required>
                     </div>
                     <div class="input_field">
-                    <textarea cols="30" rows="10" placeholder="Message..." class="input" name="message" id="messageID"></textarea>
+                        <textarea cols="30" rows="10" placeholder="Message here..." class="input" name="message" required></textarea>
                     </div>
                     <div class="btn">
                         <input type="submit" value="Send Message" class="btn-send">
                     </div>
                 </div>
-            </form>
+              </form>
         </div>
     </section>
     <footer>
