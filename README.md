@@ -54,11 +54,11 @@ All are all imported in header html ie: CDN-https://cdnjs.com/libraries
 > https://formspree.io/
 
 ## Folder Structure
-![folderStructure!](/assets/folderStructure.png)
+![folderStructure!](/img/folderStructure.png)
 
-* .vscode - local files
-* assets - pictures/logos
 * css - style for html
-* javascript - animation/navbar-toggle/contact/ implementation
-* index file - starting point/ first render to browser
+* html - html files for navigation
+* img - assets/pictures/logos
+* javascript - animation
 * images-copyright - links of all used images (free for copyright)
+* index file - starting point/ first render to browser
