@@ -15,5 +15,3 @@ https://www.freepik.com/free-photo/web-design-concept-with-drawings_902906.htm#p
 // WEB DEVELOPMENT
 https://www.freepik.com/free-photo/web-design-concepts-with-blurred-background_902858.htm#page=1&query=web%20development%20logo&position=1
 
-// SCRIPT CHANGE TEXT
-https://mattboldt.com/demos/typed-js/
